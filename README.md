@@ -1,0 +1,1 @@
+Pokedex creada en Angular
